@@ -1,0 +1,29 @@
+html {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+}
+h1 {
+	font-size: 70px;
+}
+h2 {
+	font-size: 32px;
+}
+h3 {
+	font-size: 23px;
+}
+p {
+	font-size: 14px;
+}
+.header {
+	background-image: url("../resources/images/the-flat-iron-building.png");
+	color: white;
+	font-weight: bold;
+}
+.header li {
+	list-style: none;
+	font-size: 18px;
+}
+.footer {
+	background-color: dimgray;
+	font-size: 11px;
+}
