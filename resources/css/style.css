@@ -7,23 +7,30 @@ h1 {
 }
 h2 {
 	font-size: 32px;
+	font-weight: bold;
 }
 h3 {
 	font-size: 23px;
+	font-weight: bold;
 }
 p {
 	font-size: 14px;
 }
-.header {
-	background-image: url("../resources/images/the-flat-iron-building.png");
+a {
 	color: white;
 	font-weight: bold;
 }
-.header li {
-	list-style: none;
+.header {
+	background-image: url("../images/the-flatiron-building.png");
+	font-weight: bold;
+	color: white;
+}
+.header p {
 	font-size: 18px;
 }
 .footer {
 	background-color: dimgray;
+	color: white;	
+	text-align: left;
 	font-size: 11px;
 }
